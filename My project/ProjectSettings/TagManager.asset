@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BasicEnemy
+  - health
+  - hazard
+  - killzone
+  - ui_health
+  - ui_pause
   layers:
   - Default
   - TransparentFX
